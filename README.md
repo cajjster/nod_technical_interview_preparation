@@ -1,6 +1,6 @@
 # Technical Interview Study Material  🎉
 
-This repository is designed to help you prepare the technical interview at Nod. Below you'll find everything you need to study effectively and come well prepared to the technical interview. You will also find a step-by-step Installation Guide to set up Visual Studio Code and Python. There is one Istallation Guide for Windows users and one for Mac users, make you follow the correct installation guide.
+This repository is designed to help you prepare the technical interview at Nod. Below you'll find everything you need to study effectively and come well prepared to the technical interview. You will also find a step-by-step Installation Guide to set up Visual Studio Code and Python. There is one Installation Guide for Windows users and one for Mac users, make you follow the correct guide.
 
 ## ✅ What's Included
 
