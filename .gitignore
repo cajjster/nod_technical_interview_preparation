@@ -1,3 +1,10 @@
+# Ignore empty files
+*.DS_Store
+.DS_Store
+99_mywork/
+**/*.ipynb_checkpoints/
+.vscode/settings.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
